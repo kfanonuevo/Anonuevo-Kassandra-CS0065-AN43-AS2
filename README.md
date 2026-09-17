@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Anonuevo-Kassandra-CS0065-AN43-AS2
 Asynchronous Activity 2 submission for CS0065 - AN43
 =======
