@@ -6,7 +6,7 @@ Asynchronous Activity 2 submission for CS0065 - AN43
 This repository contains the required output for Asynchronous Activity 1. The project uses KNIME to predict student risk status from academic performance data.
 
 ## Files
-- `Student Performance Prediction.knwf` - exported KNIME workflow
+- `StudentPerformancePrediction.knwf` - exported KNIME workflow
 - `student_performance_knime.csv` - dataset used by the workflow
 
 ## Algorithms
